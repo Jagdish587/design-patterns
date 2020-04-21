@@ -12,9 +12,16 @@ Structural Pattern :
 (7) Decorator Pattern 
 
 
-Adapter Design Pattern 
+Adapter Design Pattern :
 =======================
 
 (1) Adapter is a structural design pattern, which allows incompatible objects to collaborate.
 (2) The Adapter acts as a wrapper between two objects. 
 (3) It catches calls for one object and transforms them to format and interface recognizable bythe second object.
+
+Facade Pattern :
+================
+(1) The Facade Pattern provides a unified interface to a set of interfaces in a subsystem . 
+Facade provides a higher level of inerafce that makes clients easier to use
+(2) Principle of Least Knowledge : talk only to your immediate friends 
+
