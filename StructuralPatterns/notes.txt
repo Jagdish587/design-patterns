@@ -25,3 +25,7 @@ Facade Pattern :
 Facade provides a higher level of inerafce that makes clients easier to use
 (2) Principle of Least Knowledge : talk only to your immediate friends 
 
+Decorator Pattern:
+===================
+(1) Decorator Pattern attaches additional responsibility to an object dynamically
+
