@@ -1,1 +1,20 @@
-Adapter is a structural design pattern, which allows incompatible objects to collaborate.
+Structural Design Patterns are Design Patterns that ease the design by identifying 
+a simple way to realize relationships between entities.
+
+Structural Pattern :
+=====================
+(1) Adapter Pattern
+(2) Proxy Pattern 
+(3) Facade Pattern
+(4) Composite Pattern
+(5) Flyweight Pattern
+(6) Brdige Pattern
+(7) Decorator Pattern 
+
+
+Adapter Design Pattern 
+=======================
+
+(1) Adapter is a structural design pattern, which allows incompatible objects to collaborate.
+(2) The Adapter acts as a wrapper between two objects. 
+(3) It catches calls for one object and transforms them to format and interface recognizable bythe second object.
