@@ -1,0 +1,5 @@
+Chain of Responsibility
+========================
+(1) Decouples the sender with it's receivers
+(2) Each object in the chain act as receiver and has successor object , if 
+it can handle the request : it does else it passes on to the next receiver .
